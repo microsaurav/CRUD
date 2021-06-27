@@ -1,7 +1,7 @@
-# Basic-CRUD
+## Basic-CRUD
 
 Install the packages used
 ---> npm install
 
-#Run command
+# Run command
 ---> npm start
